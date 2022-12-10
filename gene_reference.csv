@@ -1,0 +1,29 @@
+Symbol,Protein name,Length (aa)
+ORF1ab,ORF1ab polyprotein,"7,096"
+nsp1,leader protein,180
+nsp2,nsp2,638
+nsp3,nsp3,"1,945"
+nsp4,nsp4,500
+nsp5,3C-like proteinase,306
+nsp6,nsp6,290
+nsp7,nsp7,83
+nsp8,nsp8,198
+nsp9,nsp9,113
+nsp10,nsp10,139
+RdRp,RNA-dependent RNA polymerase,932
+nsp13,helicase,601
+nsp14,3'-to-5' exonuclease,527
+nsp15,endoRNAse,346
+nsp16,2'-O-ribose methyltransferase,298
+ORF1ab,ORF1a polyprotein,"7,096"
+nsp11,nsp11,13
+S,surface glycoprotein,"1,273"
+ORF3a,ORF3a protein,275
+E,envelope protein,75
+M,membrane glycoprotein,222
+ORF6,ORF6 protein,61
+ORF7a,ORF7a protein,121
+ORF7b,ORF7b,43
+ORF8,ORF8 protein,121
+N,nucleocapsid phosphoprotein,419
+ORF10,ORF10 protein,38

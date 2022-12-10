@@ -1,0 +1,478 @@
+"cn.code","country","location","week","value"
+"SF","South Africa","Eastern Cape",1,0.81046171431114
+"SF","South Africa","Eastern Cape",2,0.793389370843945
+"SF","South Africa","Eastern Cape",3,0.797822872727938
+"SF","South Africa","Eastern Cape",4,0.794781627012671
+"SF","South Africa","Eastern Cape",5,0.791470286968038
+"SF","South Africa","Eastern Cape",6,0.794190182361177
+"SF","South Africa","Eastern Cape",7,0.795473133613258
+"SF","South Africa","Eastern Cape",8,0.807777962394168
+"SF","South Africa","Eastern Cape",9,0.811042778898847
+"SF","South Africa","Eastern Cape",10,0.837480178202858
+"SF","South Africa","Eastern Cape",11,0.867598862293139
+"SF","South Africa","Eastern Cape",12,0.897977751443916
+"SF","South Africa","Eastern Cape",13,0.910881624293747
+"SF","South Africa","Eastern Cape",14,0.926646419636539
+"SF","South Africa","Eastern Cape",15,0.944702146030174
+"SF","South Africa","Eastern Cape",16,0.969727082756184
+"SF","South Africa","Eastern Cape",17,0.987801953561448
+"SF","South Africa","Eastern Cape",18,1.01082085498716
+"SF","South Africa","Eastern Cape",19,1.02990913769397
+"SF","South Africa","Eastern Cape",20,1.06202869801616
+"SF","South Africa","Eastern Cape",21,1.09846784592043
+"SF","South Africa","Eastern Cape",22,1.14050243272719
+"SF","South Africa","Eastern Cape",23,1.18095854890835
+"SF","South Africa","Eastern Cape",24,1.20350264300238
+"SF","South Africa","Eastern Cape",25,1.21591376657537
+"SF","South Africa","Eastern Cape",26,1.21461019325376
+"SF","South Africa","Eastern Cape",27,1.22104684835032
+"SF","South Africa","Eastern Cape",28,1.22849258361201
+"SF","South Africa","Eastern Cape",29,1.23593119826416
+"SF","South Africa","Eastern Cape",30,1.22619035154694
+"SF","South Africa","Eastern Cape",31,1.21628704415634
+"SF","South Africa","Eastern Cape",32,1.19460764886844
+"SF","South Africa","Eastern Cape",33,1.17425580167247
+"SF","South Africa","Eastern Cape",34,1.14784573906801
+"SF","South Africa","Eastern Cape",35,1.131640987752
+"SF","South Africa","Eastern Cape",36,1.1077603406288
+"SF","South Africa","Eastern Cape",37,1.08330850502454
+"SF","South Africa","Eastern Cape",38,1.06576862635275
+"SF","South Africa","Eastern Cape",39,1.05520640253041
+"SF","South Africa","Eastern Cape",40,1.03840253979576
+"SF","South Africa","Eastern Cape",41,1.00862311139153
+"SF","South Africa","Eastern Cape",42,0.989997032490958
+"SF","South Africa","Eastern Cape",43,0.975008767781428
+"SF","South Africa","Eastern Cape",44,0.97019683409027
+"SF","South Africa","Eastern Cape",45,0.956155306117358
+"SF","South Africa","Eastern Cape",46,0.949911082655744
+"SF","South Africa","Eastern Cape",47,0.934477496014151
+"SF","South Africa","Eastern Cape",48,0.92702165369309
+"SF","South Africa","Eastern Cape",49,0.916494863966821
+"SF","South Africa","Eastern Cape",50,0.887453437958591
+"SF","South Africa","Eastern Cape",51,0.854188528167623
+"SF","South Africa","Eastern Cape",52,0.829078325937181
+"SF","South Africa","Eastern Cape",53,0.813649097454665
+"SF","South Africa","Free State",1,0.705368380271976
+"SF","South Africa","Free State",2,0.716607127708572
+"SF","South Africa","Free State",3,0.720249830728761
+"SF","South Africa","Free State",4,0.726217233851862
+"SF","South Africa","Free State",5,0.723578274094953
+"SF","South Africa","Free State",6,0.730220588206662
+"SF","South Africa","Free State",7,0.738862124877761
+"SF","South Africa","Free State",8,0.76249814835711
+"SF","South Africa","Free State",9,0.779722690585852
+"SF","South Africa","Free State",10,0.801945303489041
+"SF","South Africa","Free State",11,0.82441481716793
+"SF","South Africa","Free State",12,0.849564320754186
+"SF","South Africa","Free State",13,0.866678771199812
+"SF","South Africa","Free State",14,0.889674880233237
+"SF","South Africa","Free State",15,0.913202715366501
+"SF","South Africa","Free State",16,0.949660066224867
+"SF","South Africa","Free State",17,0.987075705256946
+"SF","South Africa","Free State",18,1.03224138133802
+"SF","South Africa","Free State",19,1.07133832231965
+"SF","South Africa","Free State",20,1.10902599712711
+"SF","South Africa","Free State",21,1.15123225857891
+"SF","South Africa","Free State",22,1.18443744649736
+"SF","South Africa","Free State",23,1.2157670807023
+"SF","South Africa","Free State",24,1.22921383458988
+"SF","South Africa","Free State",25,1.24266399631497
+"SF","South Africa","Free State",26,1.24907269431941
+"SF","South Africa","Free State",27,1.2610054652894
+"SF","South Africa","Free State",28,1.27916923554183
+"SF","South Africa","Free State",29,1.29442528551469
+"SF","South Africa","Free State",30,1.3011487135435
+"SF","South Africa","Free State",31,1.29696097613949
+"SF","South Africa","Free State",32,1.27768235037326
+"SF","South Africa","Free State",33,1.24977933261657
+"SF","South Africa","Free State",34,1.23535729802614
+"SF","South Africa","Free State",35,1.22801527598923
+"SF","South Africa","Free State",36,1.21959597112227
+"SF","South Africa","Free State",37,1.1848794485632
+"SF","South Africa","Free State",38,1.15505204178613
+"SF","South Africa","Free State",39,1.12746035776305
+"SF","South Africa","Free State",40,1.09121910392169
+"SF","South Africa","Free State",41,1.04702332366323
+"SF","South Africa","Free State",42,1.00944068339437
+"SF","South Africa","Free State",43,0.988061938337404
+"SF","South Africa","Free State",44,0.970403745182265
+"SF","South Africa","Free State",45,0.942992307765986
+"SF","South Africa","Free State",46,0.912019710519299
+"SF","South Africa","Free State",47,0.867091259762241
+"SF","South Africa","Free State",48,0.831351066097082
+"SF","South Africa","Free State",49,0.805522602773666
+"SF","South Africa","Free State",50,0.779223956461053
+"SF","South Africa","Free State",51,0.748746993407288
+"SF","South Africa","Free State",52,0.710695217536116
+"SF","South Africa","Free State",53,0.701728113355093
+"SF","South Africa","Gauteng",1,0.742291286975014
+"SF","South Africa","Gauteng",2,0.742650552666576
+"SF","South Africa","Gauteng",3,0.74826049371137
+"SF","South Africa","Gauteng",4,0.748495746989749
+"SF","South Africa","Gauteng",5,0.742631855370051
+"SF","South Africa","Gauteng",6,0.740899323953434
+"SF","South Africa","Gauteng",7,0.750115231833737
+"SF","South Africa","Gauteng",8,0.774513273421746
+"SF","South Africa","Gauteng",9,0.796369563473716
+"SF","South Africa","Gauteng",10,0.816853440695149
+"SF","South Africa","Gauteng",11,0.84252104820173
+"SF","South Africa","Gauteng",12,0.869381793250603
+"SF","South Africa","Gauteng",13,0.891580829706139
+"SF","South Africa","Gauteng",14,0.912876084713099
+"SF","South Africa","Gauteng",15,0.930538753594715
+"SF","South Africa","Gauteng",16,0.969499771660169
+"SF","South Africa","Gauteng",17,1.00453858447613
+"SF","South Africa","Gauteng",18,1.05439617849525
+"SF","South Africa","Gauteng",19,1.09008496225844
+"SF","South Africa","Gauteng",20,1.13487171337997
+"SF","South Africa","Gauteng",21,1.18473977514176
+"SF","South Africa","Gauteng",22,1.21560833033127
+"SF","South Africa","Gauteng",23,1.23808685084407
+"SF","South Africa","Gauteng",24,1.23777611286102
+"SF","South Africa","Gauteng",25,1.24810593589259
+"SF","South Africa","Gauteng",26,1.24765678273764
+"SF","South Africa","Gauteng",27,1.26622041927587
+"SF","South Africa","Gauteng",28,1.29419818935126
+"SF","South Africa","Gauteng",29,1.3191404433414
+"SF","South Africa","Gauteng",30,1.32652214321435
+"SF","South Africa","Gauteng",31,1.30798035141153
+"SF","South Africa","Gauteng",32,1.28587580113034
+"SF","South Africa","Gauteng",33,1.24940942599859
+"SF","South Africa","Gauteng",34,1.23959371457396
+"SF","South Africa","Gauteng",35,1.22967244500584
+"SF","South Africa","Gauteng",36,1.22821847336085
+"SF","South Africa","Gauteng",37,1.18691025374432
+"SF","South Africa","Gauteng",38,1.15322433238119
+"SF","South Africa","Gauteng",39,1.10724771305624
+"SF","South Africa","Gauteng",40,1.05538372802146
+"SF","South Africa","Gauteng",41,0.989300843260322
+"SF","South Africa","Gauteng",42,0.932452146893318
+"SF","South Africa","Gauteng",43,0.910100842777233
+"SF","South Africa","Gauteng",44,0.88130470559841
+"SF","South Africa","Gauteng",45,0.865195144993968
+"SF","South Africa","Gauteng",46,0.84094368206962
+"SF","South Africa","Gauteng",47,0.822808787434768
+"SF","South Africa","Gauteng",48,0.799703660768843
+"SF","South Africa","Gauteng",49,0.784410773557603
+"SF","South Africa","Gauteng",50,0.766999746858898
+"SF","South Africa","Gauteng",51,0.75187407101264
+"SF","South Africa","Gauteng",52,0.738537500838834
+"SF","South Africa","Gauteng",53,0.737468242465307
+"SF","South Africa","KwaZulu-Natal",1,0.856355417018815
+"SF","South Africa","KwaZulu-Natal",2,0.857939783094227
+"SF","South Africa","KwaZulu-Natal",3,0.860056411219899
+"SF","South Africa","KwaZulu-Natal",4,0.858578012096454
+"SF","South Africa","KwaZulu-Natal",5,0.857923470353033
+"SF","South Africa","KwaZulu-Natal",6,0.855220791776637
+"SF","South Africa","KwaZulu-Natal",7,0.861038332121575
+"SF","South Africa","KwaZulu-Natal",8,0.86519748670944
+"SF","South Africa","KwaZulu-Natal",9,0.866682112397774
+"SF","South Africa","KwaZulu-Natal",10,0.870390087006641
+"SF","South Africa","KwaZulu-Natal",11,0.876265435048757
+"SF","South Africa","KwaZulu-Natal",12,0.887739953610367
+"SF","South Africa","KwaZulu-Natal",13,0.912068659057109
+"SF","South Africa","KwaZulu-Natal",14,0.943236208760591
+"SF","South Africa","KwaZulu-Natal",15,0.970769624090443
+"SF","South Africa","KwaZulu-Natal",16,0.982915940066411
+"SF","South Africa","KwaZulu-Natal",17,0.991360697222322
+"SF","South Africa","KwaZulu-Natal",18,1.00787983477351
+"SF","South Africa","KwaZulu-Natal",19,1.02388351984799
+"SF","South Africa","KwaZulu-Natal",20,1.0513025804145
+"SF","South Africa","KwaZulu-Natal",21,1.08350535398969
+"SF","South Africa","KwaZulu-Natal",22,1.11935267811872
+"SF","South Africa","KwaZulu-Natal",23,1.15660562981762
+"SF","South Africa","KwaZulu-Natal",24,1.17441515724725
+"SF","South Africa","KwaZulu-Natal",25,1.1884071546044
+"SF","South Africa","KwaZulu-Natal",26,1.18704041388619
+"SF","South Africa","KwaZulu-Natal",27,1.19814801685384
+"SF","South Africa","KwaZulu-Natal",28,1.21148752910623
+"SF","South Africa","KwaZulu-Natal",29,1.21152454414317
+"SF","South Africa","KwaZulu-Natal",30,1.2013482641707
+"SF","South Africa","KwaZulu-Natal",31,1.17810159135125
+"SF","South Africa","KwaZulu-Natal",32,1.15266423013003
+"SF","South Africa","KwaZulu-Natal",33,1.12414347706928
+"SF","South Africa","KwaZulu-Natal",34,1.10185854175937
+"SF","South Africa","KwaZulu-Natal",35,1.08830252965451
+"SF","South Africa","KwaZulu-Natal",36,1.0696035592311
+"SF","South Africa","KwaZulu-Natal",37,1.04680414921804
+"SF","South Africa","KwaZulu-Natal",38,1.02922556144696
+"SF","South Africa","KwaZulu-Natal",39,1.01998051844401
+"SF","South Africa","KwaZulu-Natal",40,1.01077784644809
+"SF","South Africa","KwaZulu-Natal",41,0.999267872401242
+"SF","South Africa","KwaZulu-Natal",42,0.989370649462355
+"SF","South Africa","KwaZulu-Natal",43,0.976152246653839
+"SF","South Africa","KwaZulu-Natal",44,0.967725388597516
+"SF","South Africa","KwaZulu-Natal",45,0.956717174126198
+"SF","South Africa","KwaZulu-Natal",46,0.948212356889203
+"SF","South Africa","KwaZulu-Natal",47,0.924980936982252
+"SF","South Africa","KwaZulu-Natal",48,0.910606744756504
+"SF","South Africa","KwaZulu-Natal",49,0.900064421097072
+"SF","South Africa","KwaZulu-Natal",50,0.886985992591104
+"SF","South Africa","KwaZulu-Natal",51,0.870218453054645
+"SF","South Africa","KwaZulu-Natal",52,0.854755069440082
+"SF","South Africa","KwaZulu-Natal",53,0.856646918422967
+"SF","South Africa","Limpopo",1,0.792379052307115
+"SF","South Africa","Limpopo",2,0.78481235927936
+"SF","South Africa","Limpopo",3,0.789020015901076
+"SF","South Africa","Limpopo",4,0.785511324584133
+"SF","South Africa","Limpopo",5,0.781636590032383
+"SF","South Africa","Limpopo",6,0.779335773626296
+"SF","South Africa","Limpopo",7,0.793924391511877
+"SF","South Africa","Limpopo",8,0.808598476320501
+"SF","South Africa","Limpopo",9,0.82002215097741
+"SF","South Africa","Limpopo",10,0.821526936421915
+"SF","South Africa","Limpopo",11,0.819957922285655
+"SF","South Africa","Limpopo",12,0.831521388500833
+"SF","South Africa","Limpopo",13,0.858708200589619
+"SF","South Africa","Limpopo",14,0.899731439625086
+"SF","South Africa","Limpopo",15,0.941326019837895
+"SF","South Africa","Limpopo",16,0.983474805874995
+"SF","South Africa","Limpopo",17,1.02782549084122
+"SF","South Africa","Limpopo",18,1.07886970910157
+"SF","South Africa","Limpopo",19,1.11747906993975
+"SF","South Africa","Limpopo",20,1.16371969240569
+"SF","South Africa","Limpopo",21,1.21243869450349
+"SF","South Africa","Limpopo",22,1.24151418488053
+"SF","South Africa","Limpopo",23,1.26115752358411
+"SF","South Africa","Limpopo",24,1.26100798051597
+"SF","South Africa","Limpopo",25,1.27731949402367
+"SF","South Africa","Limpopo",26,1.28454536809066
+"SF","South Africa","Limpopo",27,1.30071853849523
+"SF","South Africa","Limpopo",28,1.34131139105398
+"SF","South Africa","Limpopo",29,1.36152498613452
+"SF","South Africa","Limpopo",30,1.36496400542238
+"SF","South Africa","Limpopo",31,1.33169894856868
+"SF","South Africa","Limpopo",32,1.31002054729855
+"SF","South Africa","Limpopo",33,1.28074266522198
+"SF","South Africa","Limpopo",34,1.26029195761805
+"SF","South Africa","Limpopo",35,1.22431306132278
+"SF","South Africa","Limpopo",36,1.18851903479691
+"SF","South Africa","Limpopo",37,1.11053842620406
+"SF","South Africa","Limpopo",38,1.03999909470738
+"SF","South Africa","Limpopo",39,0.979120609383633
+"SF","South Africa","Limpopo",40,0.941023939633078
+"SF","South Africa","Limpopo",41,0.900662245774738
+"SF","South Africa","Limpopo",42,0.866672848227739
+"SF","South Africa","Limpopo",43,0.841892096519615
+"SF","South Africa","Limpopo",44,0.822403291456292
+"SF","South Africa","Limpopo",45,0.810746779596731
+"SF","South Africa","Limpopo",46,0.801071132085618
+"SF","South Africa","Limpopo",47,0.798843970707457
+"SF","South Africa","Limpopo",48,0.792762717496555
+"SF","South Africa","Limpopo",49,0.797223526406623
+"SF","South Africa","Limpopo",50,0.787192261277121
+"SF","South Africa","Limpopo",51,0.778958350291199
+"SF","South Africa","Limpopo",52,0.782780130765715
+"SF","South Africa","Limpopo",53,0.786142901454097
+"SF","South Africa","Mpumalanga",1,0.81720907535288
+"SF","South Africa","Mpumalanga",2,0.822344437556736
+"SF","South Africa","Mpumalanga",3,0.822755249455994
+"SF","South Africa","Mpumalanga",4,0.818464504891798
+"SF","South Africa","Mpumalanga",5,0.812952354715788
+"SF","South Africa","Mpumalanga",6,0.814167978427838
+"SF","South Africa","Mpumalanga",7,0.821666088983505
+"SF","South Africa","Mpumalanga",8,0.838664043076189
+"SF","South Africa","Mpumalanga",9,0.854497034466068
+"SF","South Africa","Mpumalanga",10,0.86705609712578
+"SF","South Africa","Mpumalanga",11,0.875169548366719
+"SF","South Africa","Mpumalanga",12,0.888611382083347
+"SF","South Africa","Mpumalanga",13,0.902584548443972
+"SF","South Africa","Mpumalanga",14,0.91855148630102
+"SF","South Africa","Mpumalanga",15,0.929709814426937
+"SF","South Africa","Mpumalanga",16,0.950335081433563
+"SF","South Africa","Mpumalanga",17,0.972341928652634
+"SF","South Africa","Mpumalanga",18,1.01001662703795
+"SF","South Africa","Mpumalanga",19,1.04401543746866
+"SF","South Africa","Mpumalanga",20,1.09089083274994
+"SF","South Africa","Mpumalanga",21,1.13820316740236
+"SF","South Africa","Mpumalanga",22,1.17042340677236
+"SF","South Africa","Mpumalanga",23,1.19887918209882
+"SF","South Africa","Mpumalanga",24,1.20302734398914
+"SF","South Africa","Mpumalanga",25,1.21644345670898
+"SF","South Africa","Mpumalanga",26,1.21507631794273
+"SF","South Africa","Mpumalanga",27,1.22986057920345
+"SF","South Africa","Mpumalanga",28,1.25927332737956
+"SF","South Africa","Mpumalanga",29,1.27240605679244
+"SF","South Africa","Mpumalanga",30,1.2656856239938
+"SF","South Africa","Mpumalanga",31,1.23062104373233
+"SF","South Africa","Mpumalanga",32,1.20440754175578
+"SF","South Africa","Mpumalanga",33,1.17002772381374
+"SF","South Africa","Mpumalanga",34,1.16001731802839
+"SF","South Africa","Mpumalanga",35,1.13968880331106
+"SF","South Africa","Mpumalanga",36,1.13442147528633
+"SF","South Africa","Mpumalanga",37,1.09662401189778
+"SF","South Africa","Mpumalanga",38,1.07042462776146
+"SF","South Africa","Mpumalanga",39,1.04012083077792
+"SF","South Africa","Mpumalanga",40,1.01280952116335
+"SF","South Africa","Mpumalanga",41,0.984288314259411
+"SF","South Africa","Mpumalanga",42,0.958494407658618
+"SF","South Africa","Mpumalanga",43,0.945086487541513
+"SF","South Africa","Mpumalanga",44,0.928330830426397
+"SF","South Africa","Mpumalanga",45,0.917764790675473
+"SF","South Africa","Mpumalanga",46,0.900042897205018
+"SF","South Africa","Mpumalanga",47,0.880842800124749
+"SF","South Africa","Mpumalanga",48,0.862193468259822
+"SF","South Africa","Mpumalanga",49,0.853597488323016
+"SF","South Africa","Mpumalanga",50,0.838603509467468
+"SF","South Africa","Mpumalanga",51,0.823192074978801
+"SF","South Africa","Mpumalanga",52,0.808606621129395
+"SF","South Africa","Mpumalanga",53,0.810826019494002
+"SF","South Africa","North West",1,0.673552488063165
+"SF","South Africa","North West",2,0.682674705158633
+"SF","South Africa","North West",3,0.687241980630023
+"SF","South Africa","North West",4,0.691058374940819
+"SF","South Africa","North West",5,0.691794372955739
+"SF","South Africa","North West",6,0.697803787449169
+"SF","South Africa","North West",7,0.708377745997921
+"SF","South Africa","North West",8,0.723183523425646
+"SF","South Africa","North West",9,0.736181399718294
+"SF","South Africa","North West",10,0.753985004318239
+"SF","South Africa","North West",11,0.784659053525129
+"SF","South Africa","North West",12,0.822130198446646
+"SF","South Africa","North West",13,0.863914005799141
+"SF","South Africa","North West",14,0.9031363534679
+"SF","South Africa","North West",15,0.933518694521556
+"SF","South Africa","North West",16,0.9685385513747
+"SF","South Africa","North West",17,1.00772189479272
+"SF","South Africa","North West",18,1.06529684644757
+"SF","South Africa","North West",19,1.11058718333482
+"SF","South Africa","North West",20,1.15478912227008
+"SF","South Africa","North West",21,1.19691751496332
+"SF","South Africa","North West",22,1.2290507795902
+"SF","South Africa","North West",23,1.25737926959378
+"SF","South Africa","North West",24,1.26700595781208
+"SF","South Africa","North West",25,1.28223353991684
+"SF","South Africa","North West",26,1.29509668059606
+"SF","South Africa","North West",27,1.31178649183663
+"SF","South Africa","North West",28,1.34360002928684
+"SF","South Africa","North West",29,1.36629818725161
+"SF","South Africa","North West",30,1.37674656984801
+"SF","South Africa","North West",31,1.36660801690776
+"SF","South Africa","North West",32,1.34838102063278
+"SF","South Africa","North West",33,1.32227228506269
+"SF","South Africa","North West",34,1.31053697746162
+"SF","South Africa","North West",35,1.30159972932906
+"SF","South Africa","North West",36,1.29864381928563
+"SF","South Africa","North West",37,1.25822348442687
+"SF","South Africa","North West",38,1.22188139261918
+"SF","South Africa","North West",39,1.17205549706031
+"SF","South Africa","North West",40,1.10104417041257
+"SF","South Africa","North West",41,1.00457014615872
+"SF","South Africa","North West",42,0.92389071050826
+"SF","South Africa","North West",43,0.887341601188938
+"SF","South Africa","North West",44,0.86969974470974
+"SF","South Africa","North West",45,0.843916481474539
+"SF","South Africa","North West",46,0.817545696261266
+"SF","South Africa","North West",47,0.782045075385061
+"SF","South Africa","North West",48,0.758993534585644
+"SF","South Africa","North West",49,0.734665698493008
+"SF","South Africa","North West",50,0.712743614955226
+"SF","South Africa","North West",51,0.693594090242328
+"SF","South Africa","North West",52,0.672314302912275
+"SF","South Africa","North West",53,0.670939078623724
+"SF","South Africa","Nothern Cape",1,0.717866066795203
+"SF","South Africa","Nothern Cape",2,0.686331996577148
+"SF","South Africa","Nothern Cape",3,0.687368896036907
+"SF","South Africa","Nothern Cape",4,0.679175323453307
+"SF","South Africa","Nothern Cape",5,0.672982496068182
+"SF","South Africa","Nothern Cape",6,0.67543417835487
+"SF","South Africa","Nothern Cape",7,0.674436821922786
+"SF","South Africa","Nothern Cape",8,0.68993910178957
+"SF","South Africa","Nothern Cape",9,0.696995155755591
+"SF","South Africa","Nothern Cape",10,0.730200321800822
+"SF","South Africa","Nothern Cape",11,0.775464627012475
+"SF","South Africa","Nothern Cape",12,0.828753253270055
+"SF","South Africa","Nothern Cape",13,0.868961763069298
+"SF","South Africa","Nothern Cape",14,0.921077936427576
+"SF","South Africa","Nothern Cape",15,0.965695290952449
+"SF","South Africa","Nothern Cape",16,1.01035254657815
+"SF","South Africa","Nothern Cape",17,1.03419668760491
+"SF","South Africa","Nothern Cape",18,1.06677806418216
+"SF","South Africa","Nothern Cape",19,1.09343408568291
+"SF","South Africa","Nothern Cape",20,1.1178029027569
+"SF","South Africa","Nothern Cape",21,1.13663571443064
+"SF","South Africa","Nothern Cape",22,1.15221714348982
+"SF","South Africa","Nothern Cape",23,1.1752688000748
+"SF","South Africa","Nothern Cape",24,1.19217739018194
+"SF","South Africa","Nothern Cape",25,1.20815530950332
+"SF","South Africa","Nothern Cape",26,1.21830213451284
+"SF","South Africa","Nothern Cape",27,1.23085036286451
+"SF","South Africa","Nothern Cape",28,1.24744511661327
+"SF","South Africa","Nothern Cape",29,1.25846888310254
+"SF","South Africa","Nothern Cape",30,1.26141591650012
+"SF","South Africa","Nothern Cape",31,1.26798204412216
+"SF","South Africa","Nothern Cape",32,1.26199224575567
+"SF","South Africa","Nothern Cape",33,1.2498769478754
+"SF","South Africa","Nothern Cape",34,1.23534519613676
+"SF","South Africa","Nothern Cape",35,1.23535892451249
+"SF","South Africa","Nothern Cape",36,1.2329048850199
+"SF","South Africa","Nothern Cape",37,1.21656864336853
+"SF","South Africa","Nothern Cape",38,1.20224485747454
+"SF","South Africa","Nothern Cape",39,1.19875579199574
+"SF","South Africa","Nothern Cape",40,1.18908318807626
+"SF","South Africa","Nothern Cape",41,1.14567982636221
+"SF","South Africa","Nothern Cape",42,1.08795547635214
+"SF","South Africa","Nothern Cape",43,1.03441924521006
+"SF","South Africa","Nothern Cape",44,1.01763891916643
+"SF","South Africa","Nothern Cape",45,0.983382249281212
+"SF","South Africa","Nothern Cape",46,0.955281161793953
+"SF","South Africa","Nothern Cape",47,0.895423340440927
+"SF","South Africa","Nothern Cape",48,0.854175894255718
+"SF","South Africa","Nothern Cape",49,0.811007211453675
+"SF","South Africa","Nothern Cape",50,0.784489707166744
+"SF","South Africa","Nothern Cape",51,0.75775184987959
+"SF","South Africa","Nothern Cape",52,0.749437905441962
+"SF","South Africa","Nothern Cape",53,0.721113843261243
+"SF","South Africa","Western Cape",1,0.835193187914987
+"SF","South Africa","Western Cape",2,0.806878235386447
+"SF","South Africa","Western Cape",3,0.810255219853694
+"SF","South Africa","Western Cape",4,0.79981311871031
+"SF","South Africa","Western Cape",5,0.798806666256441
+"SF","South Africa","Western Cape",6,0.799914022715964
+"SF","South Africa","Western Cape",7,0.804008156817825
+"SF","South Africa","Western Cape",8,0.814579245476938
+"SF","South Africa","Western Cape",9,0.820783053105799
+"SF","South Africa","Western Cape",10,0.851128071273497
+"SF","South Africa","Western Cape",11,0.887071404671637
+"SF","South Africa","Western Cape",12,0.932331904862214
+"SF","South Africa","Western Cape",13,0.956317253557514
+"SF","South Africa","Western Cape",14,0.978350524397218
+"SF","South Africa","Western Cape",15,0.991273387468967
+"SF","South Africa","Western Cape",16,1.00619879952157
+"SF","South Africa","Western Cape",17,1.01633747955527
+"SF","South Africa","Western Cape",18,1.02838424286962
+"SF","South Africa","Western Cape",19,1.0379752570218
+"SF","South Africa","Western Cape",20,1.05204903653391
+"SF","South Africa","Western Cape",21,1.06431802700782
+"SF","South Africa","Western Cape",22,1.08702290410022
+"SF","South Africa","Western Cape",23,1.11041158838989
+"SF","South Africa","Western Cape",24,1.13019671050752
+"SF","South Africa","Western Cape",25,1.13937909177577
+"SF","South Africa","Western Cape",26,1.14494581321012
+"SF","South Africa","Western Cape",27,1.155334231635
+"SF","South Africa","Western Cape",28,1.15951969187174
+"SF","South Africa","Western Cape",29,1.16083744445044
+"SF","South Africa","Western Cape",30,1.14826438316259
+"SF","South Africa","Western Cape",31,1.14980120984624
+"SF","South Africa","Western Cape",32,1.14253064041475
+"SF","South Africa","Western Cape",33,1.13753602789306
+"SF","South Africa","Western Cape",34,1.12002591651052
+"SF","South Africa","Western Cape",35,1.11419673527367
+"SF","South Africa","Western Cape",36,1.10318901703757
+"SF","South Africa","Western Cape",37,1.09185923393072
+"SF","South Africa","Western Cape",38,1.08413085366137
+"SF","South Africa","Western Cape",39,1.08212609149528
+"SF","South Africa","Western Cape",40,1.07393465415182
+"SF","South Africa","Western Cape",41,1.05056115225401
+"SF","South Africa","Western Cape",42,1.03233194755783
+"SF","South Africa","Western Cape",43,1.02156138131337
+"SF","South Africa","Western Cape",44,1.01993450584726
+"SF","South Africa","Western Cape",45,1.01029610523322
+"SF","South Africa","Western Cape",46,1.00566505481934
+"SF","South Africa","Western Cape",47,0.981104932771127
+"SF","South Africa","Western Cape",48,0.952566898277073
+"SF","South Africa","Western Cape",49,0.915215396830004
+"SF","South Africa","Western Cape",50,0.89136738739557
+"SF","South Africa","Western Cape",51,0.86703859433504
+"SF","South Africa","Western Cape",52,0.860552617553306
+"SF","South Africa","Western Cape",53,0.837351987795946
